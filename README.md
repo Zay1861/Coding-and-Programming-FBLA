@@ -112,6 +112,24 @@ python3 -m pip install PySide6 requests
 
 ---
 
+## Dataset Setup
+
+This project uses the **Yelp Academic Dataset** for importing business records.
+
+Because the full Yelp dataset file is very large, it is **not included directly in this repository**. To run the Yelp import feature:
+
+1. Download the Yelp Academic Dataset.
+2. Locate the file named `yelp_academic_dataset_business.json`.
+3. Place that file in your preferred local folder.
+4. Update the `YELP_BUSINESS_FILE` variable in the Python program so it points to your local dataset path.
+
+Example:  
+`YELP_BUSINESS_FILE = "/path/to/yelp_academic_dataset_business.json"`
+
+If the dataset is not installed, the rest of the program can still run using the included local sample data.
+
+---
+
 ## How to Run
 
 Run the application with:
