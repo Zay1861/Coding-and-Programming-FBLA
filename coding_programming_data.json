@@ -1,0 +1,455 @@
+{
+  "businesses": [
+    {
+      "external_id": "node/2428647210",
+      "name": "Phil & Sons",
+      "category": "restaurant",
+      "address": "377, South Oyster Bay Road, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 1
+    },
+    {
+      "external_id": "node/2428647553",
+      "name": "Raimo's",
+      "category": "restaurant",
+      "address": "380, Woodbury Road, Hicksville, 11801",
+      "deal": "",
+      "reviews": [],
+      "id": 2
+    },
+    {
+      "external_id": "node/2428667520",
+      "name": "Bagel Boss",
+      "category": "restaurant",
+      "address": "432, South Oyster Bay Road, Hicksville, 11801",
+      "deal": "",
+      "reviews": [],
+      "id": 3
+    },
+    {
+      "external_id": "node/2432742515",
+      "name": "Greek Xpress",
+      "category": "restaurant",
+      "address": "441, South Oyster Bay Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 4
+    },
+    {
+      "external_id": "node/2432776523",
+      "name": "Great Wok",
+      "category": "fast_food",
+      "address": "35, Woodbury Road, 11801",
+      "deal": "",
+      "reviews": [],
+      "id": 5
+    },
+    {
+      "external_id": "node/2432795945",
+      "name": "New Chilli and Curry",
+      "category": "restaurant",
+      "address": "106, Woodbury Road, Hicksville, 11801",
+      "deal": "",
+      "reviews": [],
+      "id": 6
+    },
+    {
+      "external_id": "node/2432851090",
+      "name": "Pasta-eria",
+      "category": "restaurant",
+      "address": "440, South Oyster Bay Road, Hicksville, 11801",
+      "deal": "",
+      "reviews": [],
+      "id": 7
+    },
+    {
+      "external_id": "node/2432859677",
+      "name": "Green Cactus",
+      "category": "fast_food",
+      "address": "397 , South Oyster Bay Road, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 8
+    },
+    {
+      "external_id": "node/2432871750",
+      "name": "Mario's",
+      "category": "fast_food",
+      "address": "659, Old Country Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 9
+    },
+    {
+      "external_id": "node/2432884730",
+      "name": "Main Event",
+      "category": "restaurant",
+      "address": "799, Old Country Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 10
+    },
+    {
+      "external_id": "node/2432967609",
+      "name": "Yogurt and Such",
+      "category": "fast_food",
+      "address": "438, Woodbury Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 11
+    },
+    {
+      "external_id": "node/2432967673",
+      "name": "Morrison's",
+      "category": "restaurant",
+      "address": "430, Woodbury Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 12
+    },
+    {
+      "external_id": "node/2432970866",
+      "name": "China View",
+      "category": "restaurant",
+      "address": "395 , South Oyster Bay Road, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 13
+    },
+    {
+      "external_id": "node/2432975240",
+      "name": "Ayhan's Shish kebab",
+      "category": "restaurant",
+      "address": "379, South Oyster Bay Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 14
+    },
+    {
+      "external_id": "node/3360829498",
+      "name": "Smashburger",
+      "category": "fast_food",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 15
+    },
+    {
+      "external_id": "node/4542588330",
+      "name": "New Hama Fusion",
+      "category": "restaurant",
+      "address": "1115, Old Country Road, Plainview, 11803",
+      "deal": "",
+      "reviews": [],
+      "id": 16
+    },
+    {
+      "external_id": "node/4546532545",
+      "name": "fast_food",
+      "category": "fast_food",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 17
+    },
+    {
+      "external_id": "node/5018311024",
+      "name": "Thomas's Diner",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 18
+    },
+    {
+      "external_id": "node/5353867150",
+      "name": "Yims Wok",
+      "category": "restaurant",
+      "address": "235, Robbins Lane, Syosset, 11791",
+      "deal": "",
+      "reviews": [],
+      "id": 19
+    },
+    {
+      "external_id": "node/5353869944",
+      "name": "Cafe Bella",
+      "category": "restaurant",
+      "address": "235, Robbins Lane, Syosset, 11791",
+      "deal": "",
+      "reviews": [],
+      "id": 20
+    },
+    {
+      "external_id": "node/5353874944",
+      "name": "New Country Delicatessen",
+      "category": "restaurant",
+      "address": "321, Robbins Lane, Syosset, 11791",
+      "deal": "",
+      "reviews": [],
+      "id": 21
+    },
+    {
+      "external_id": "node/5355820902",
+      "name": "Blue Angel Diner",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 22
+    },
+    {
+      "external_id": "node/5384515314",
+      "name": "Kabul Grill",
+      "category": "restaurant",
+      "address": "129, North Broadway, Hicksville, 11801",
+      "deal": "",
+      "reviews": [],
+      "id": 23
+    },
+    {
+      "external_id": "node/5400371558",
+      "name": "Texas Roadhouse",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 24
+    },
+    {
+      "external_id": "node/5400371559",
+      "name": "Moe's Southwest Grill",
+      "category": "fast_food",
+      "address": "2565, Hempstead Turnpike, East Meadow, 11554",
+      "deal": "",
+      "reviews": [],
+      "id": 25
+    },
+    {
+      "external_id": "node/5750392275",
+      "name": "Taco Joes",
+      "category": "restaurant",
+      "address": "1137, Old Country Road, Westbury, 11590",
+      "deal": "",
+      "reviews": [],
+      "id": 26
+    },
+    {
+      "external_id": "node/5840598385",
+      "name": "Red Robin",
+      "category": "restaurant",
+      "address": "Westbury, 11590",
+      "deal": "",
+      "reviews": [],
+      "id": 27
+    },
+    {
+      "external_id": "node/5872146749",
+      "name": "Iavarone Italian Kitchen",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 28
+    },
+    {
+      "external_id": "node/5912806308",
+      "name": "DJ's International Buffet",
+      "category": "restaurant",
+      "address": "1100, Stewart Avenue, Garden City, 11530",
+      "deal": "",
+      "reviews": [],
+      "id": 29
+    },
+    {
+      "external_id": "node/5954560611",
+      "name": "Cafe Formaggio",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 30
+    },
+    {
+      "external_id": "node/5983784274",
+      "name": "Diner Luxe",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 31
+    },
+    {
+      "external_id": "node/5983847145",
+      "name": "HSR Singleton's Classic American Grill",
+      "category": "restaurant",
+      "address": "150, Hicksville Road, Bethpage, 11714",
+      "deal": "",
+      "reviews": [],
+      "id": 32
+    },
+    {
+      "external_id": "node/5983853039",
+      "name": "Watana Japanese Fusion",
+      "category": "restaurant",
+      "address": "164, Hicksville Road, Bethpage, 11714",
+      "deal": "",
+      "reviews": [],
+      "id": 33
+    },
+    {
+      "external_id": "node/6003269043",
+      "name": "Farmingdale Diner",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 34
+    },
+    {
+      "external_id": "node/6167307586",
+      "name": "Sabor A Colombia",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 35
+    },
+    {
+      "external_id": "node/6188804421",
+      "name": "Mama Theresa's",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 36
+    },
+    {
+      "external_id": "node/6205677662",
+      "name": "Colony Diner",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 37
+    },
+    {
+      "external_id": "node/6205735145",
+      "name": "Golden Garden II",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 38
+    },
+    {
+      "external_id": "node/6205736131",
+      "name": "restaurant",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 39
+    },
+    {
+      "external_id": "node/6288539623",
+      "name": "Great Wall",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 40
+    },
+    {
+      "external_id": "node/6345823759",
+      "name": "The Capital Grille",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 41
+    },
+    {
+      "external_id": "node/6345823760",
+      "name": "Small Batch",
+      "category": "restaurant",
+      "address": "630, Old Country Road, Garden City, 11530",
+      "deal": "",
+      "reviews": [],
+      "id": 42
+    },
+    {
+      "external_id": "node/6345824330",
+      "name": "Havana Central",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 43
+    },
+    {
+      "external_id": "node/6376971814",
+      "name": "Moe's Southwest Grill",
+      "category": "fast_food",
+      "address": "674, Stewart Avenue, Garden City, 11530",
+      "deal": "",
+      "reviews": [],
+      "id": 44
+    },
+    {
+      "external_id": "node/6385537243",
+      "name": "TGI Friday's",
+      "category": "restaurant",
+      "address": "3535, Hempstead Turnpike",
+      "deal": "",
+      "reviews": [],
+      "id": 45
+    },
+    {
+      "external_id": "node/6385550398",
+      "name": "Spice & Curry Kebab & Grill",
+      "category": "restaurant",
+      "address": "2230, Hempstead Turnpike, East Meadow, 11554",
+      "deal": "",
+      "reviews": [],
+      "id": 46
+    },
+    {
+      "external_id": "node/6515650010",
+      "name": "King Fish",
+      "category": "restaurant",
+      "address": "990, Corporate Drive, Westbury, 11590",
+      "deal": "",
+      "reviews": [],
+      "id": 47
+    },
+    {
+      "external_id": "node/6561502661",
+      "name": "Energy Fuel",
+      "category": "restaurant",
+      "address": "Stewart Avenue",
+      "deal": "",
+      "reviews": [],
+      "id": 48
+    },
+    {
+      "external_id": "node/6561502662",
+      "name": "Pizza Supreme",
+      "category": "fast_food",
+      "address": "678, Stewart Avenue, Garden City, 11530",
+      "deal": "",
+      "reviews": [],
+      "id": 49
+    },
+    {
+      "external_id": "node/6993953674",
+      "name": "Fuel your Body Cafe",
+      "category": "restaurant",
+      "address": "",
+      "deal": "",
+      "reviews": [],
+      "id": 50
+    }
+  ],
+  "favorites": []
+}
