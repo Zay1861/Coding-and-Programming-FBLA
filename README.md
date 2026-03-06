@@ -2,7 +2,7 @@
 
 ## Project Description
 
-**Local Lift** is a desktop application built in **Python** using **PySide6**. The program helps users discover and support local businesses by allowing them to search for businesses by location and category, save favorites, add reviews, and view useful business information in one interface.
+**Local Lift** is a desktop application built in **Python** using **PySide6** in collaboration with Suvir Mohan. The program helps users discover and support local businesses by allowing them to search for businesses by location and category, save favorites, add reviews, and view useful business information in one interface.
 
 The application is designed to solve a practical community problem: making it easier for people to find and interact with local businesses instead of relying only on large chain stores. Local Lift combines local data storage with external business data imports to create an organized and user-friendly experience.
 
